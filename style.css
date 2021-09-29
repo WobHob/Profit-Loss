@@ -1,0 +1,44 @@
+:root{
+    --primary-color:white;
+}
+
+html{
+    text-align: center;
+}
+
+
+header{
+    padding-top:4rem;
+    padding-bottom:2rem;
+    /* margin-top:3rem; */
+    font-size:2rem;
+}
+
+label{
+    display: inline;
+}
+
+.container{
+    margin:5rem 3rem;
+    padding: 1rem;
+}
+
+/* #output-box{    
+    text-align:left;
+} */
+
+#btn-submit{
+    font-size:1.5rem;
+    border-radius:0.5rem;
+    margin: 1.5rem auto;
+}
+
+input{
+    margin:1rem auto;
+    font-size: 1.5rem;
+    border-radius:0.5rem;
+}
+
+#emoji-displayer{
+    font-size:6rem;
+}
